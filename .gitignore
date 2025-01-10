@@ -366,3 +366,6 @@ MigrationBackup/
 
 # Mac-specific
 .DS_Store
+lessons/4-ComputerVision/07-ConvNets/data
+python312
+lessons/3-NeuralNetworks/05-Frameworks/lightning_logs
